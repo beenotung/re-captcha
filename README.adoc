@@ -1,0 +1,12 @@
+= re-captcha
+
+Identify the text in the captcha.
+
+Sample Input Image:
+image:in.png[]
+
+Processed Image:
+image:out.png[]
+
+Decoded Text:
+nwdbhg

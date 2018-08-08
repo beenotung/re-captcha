@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ts-node index.ts"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +14,9 @@
     "node-tesseract": "^0.2.7",
     "ocr": "^3.3.76",
     "pngjs": "^3.3.3"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.0",
+    "typescript": "^3.0.1"
   }
 }
