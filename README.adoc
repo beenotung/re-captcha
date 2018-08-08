@@ -3,7 +3,7 @@
 Identify the text in the captcha.
 
 Sample Input Image:
-image:in.png[]
+image:in-1.png[]
 
 Processed Image:
 image:out.png[]
